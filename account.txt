@@ -26,12 +26,12 @@
         "session": false,
         "firstPartyDomain": "",
         "partitionKey": null,
-        "expirationDate": 1791188611.175,
+        "expirationDate": 1791189683.022,
         "storeId": null
     },
     {
         "name": "fr",
-        "value": "0oDPgBXWaJez9k9GI.AWdIVXOCTyIqYKGbL5LJ5tqHFnpq7kCvZvW2No025QYGGUq2S5U.BosqMV..AAA.0.0.BotAai.AWdgAA_znViuu9U7YEudsN3PL8s",
+        "value": "0oDPgBXWaJez9k9GI.AWfzqUiJjd-Ivng3u5Ec1ST50wfCr2BY0EEJl--rH0TXCV6M3QQ.BosqMV..AAA.0.0.BotAq_.AWdm6WeVc_ZUsUADzsc9gStbBuc",
         "domain": ".facebook.com",
         "hostOnly": false,
         "path": "/",
@@ -41,7 +41,7 @@
         "session": false,
         "firstPartyDomain": "",
         "partitionKey": null,
-        "expirationDate": 1764404641.807,
+        "expirationDate": 1764405695.385,
         "storeId": null
     },
     {
@@ -56,7 +56,7 @@
         "session": false,
         "firstPartyDomain": "",
         "partitionKey": null,
-        "expirationDate": 1761812646,
+        "expirationDate": 1761813700,
         "storeId": null
     },
     {
@@ -76,7 +76,7 @@
     },
     {
         "name": "fbl_st",
-        "value": "101734362%3BT%3A29277144",
+        "value": "101716174%3BT%3A29277161",
         "domain": ".facebook.com",
         "hostOnly": false,
         "path": "/",
@@ -86,7 +86,7 @@
         "session": false,
         "firstPartyDomain": "",
         "partitionKey": null,
-        "expirationDate": 1788164646,
+        "expirationDate": 1788165700,
         "storeId": null
     },
     {
@@ -131,7 +131,7 @@
         "session": false,
         "firstPartyDomain": "",
         "partitionKey": null,
-        "expirationDate": 1791188641.807,
+        "expirationDate": 1791189695.385,
         "storeId": null
     },
     {
@@ -166,7 +166,7 @@
     },
     {
         "name": "wl_cbv",
-        "value": "v2%3Bclient_version%3A2908%3Btimestamp%3A1756628642%3BCRCM%3A1928840122",
+        "value": "v2%3Bclient_version%3A2908%3Btimestamp%3A1756629696",
         "domain": ".facebook.com",
         "hostOnly": false,
         "path": "/",
@@ -176,7 +176,7 @@
         "session": false,
         "firstPartyDomain": "",
         "partitionKey": null,
-        "expirationDate": 1764404655,
+        "expirationDate": 1764405700,
         "storeId": null
     }
 ]
